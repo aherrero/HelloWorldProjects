@@ -1,0 +1,3 @@
+/home/aherrero/Projects/hello_opencv_cmake/build/CMakeFiles/edit_cache.dir
+/home/aherrero/Projects/hello_opencv_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/aherrero/Projects/hello_opencv_cmake/build/CMakeFiles/DisplayImage.dir
