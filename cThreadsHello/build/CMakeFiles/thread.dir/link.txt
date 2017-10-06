@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/thread.dir/thread.c.o  -o thread -rdynamic -lpthread 
