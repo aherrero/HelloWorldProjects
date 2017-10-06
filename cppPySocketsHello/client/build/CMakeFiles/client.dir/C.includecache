@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aherrero/Downloads/tmp/Projects/cppTCPHelloWorld/client/client.c
+stdio.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+string.h
+-
+errno.h
+-
+
